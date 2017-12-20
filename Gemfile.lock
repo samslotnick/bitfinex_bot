@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cryptocompare (0.12.0)
+      faraday
+      json
+    faraday (0.13.1)
+      multipart-post (>= 1.2, < 3)
+    json (2.1.0)
+    multipart-post (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cryptocompare
+
+BUNDLED WITH
+   1.14.6
